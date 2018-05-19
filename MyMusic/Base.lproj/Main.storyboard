@@ -40,7 +40,7 @@
                                 <state key="normal" title="Stop"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hgX-1z-a6c">
-                                <rect key="frame" x="6" y="65" width="204" height="150"/>
+                                <rect key="frame" x="16" y="148" width="204" height="150"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="cymbal"/>
                             </button>
